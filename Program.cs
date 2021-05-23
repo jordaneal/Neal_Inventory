@@ -1,5 +1,13 @@
 ﻿using System;
 
+// Jordan Neal
+// IT112 
+// NOTES: Couldnt think of a better way to do the List() method
+//        in the Shipper Class. There must be a way to utilize the
+//        IShippable array, but my method of solving this issue was
+//        to create extra variables in Shipper, which may defeat the point
+// BEHAVIORS NOT IMPLEMENTED AND WHY: Poissible use of List()
+
 namespace Neal_Inventory
 {
     class Program
